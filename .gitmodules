@@ -1,0 +1,3 @@
+[submodule "Naive-Bayes-Classifier-for-Spam-Emails"]
+	path = Naive-Bayes-Classifier-for-Spam-Emails
+	url = git@github.com:amirmallak/Naive-Bayes-Classifier-for-Spam-Emails.git
