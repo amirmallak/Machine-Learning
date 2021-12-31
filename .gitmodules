@@ -1,3 +1,6 @@
 [submodule "Naive-Bayes-Classifier-for-Spam-Emails"]
 	path = Naive-Bayes-Classifier-for-Spam-Emails
 	url = git@github.com:amirmallak/Naive-Bayes-Classifier-for-Spam-Emails.git
+[submodule "Linear-Regression"]
+	path = Linear-Regression
+	url = git@github.com:amirmallak/Linear-Regression.git
